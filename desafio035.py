@@ -8,4 +8,4 @@ reta3 = float(input('Tericeira reta: '))
 if reta1 < reta2 + reta3 and reta2 < reta1 + reta3 and reta3 < reta1 + reta2:
     print('Podem formar um triângulo')
 else:
-    print('NÃO pode formar um Triângulo')
+    print('NÃO podem formar um Triângulo')
